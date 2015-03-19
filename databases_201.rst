@@ -16,6 +16,9 @@ High Availability
 Document Databases
 ==================
 
+Redis
+-------
+
 MongoDB
 -------
 
