@@ -64,6 +64,11 @@ Sudo (or, "Why you should not log in as root")
 History and Lore
 ================
 
+Password Manager
+================
+
+https://www.keepassx.org/
+
 The Morris Worm
 ---------------
 http://www.snowplow.org/tom/worm/worm.html
